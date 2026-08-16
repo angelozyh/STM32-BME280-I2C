@@ -108,11 +108,18 @@ Humidity: 45.72 %RH
 * I2C
 * UART
 
-
 ## Project Photo
 
 <p align="center">
   <img width="3212" height="2155" alt="BME280_circuit" src="https://github.com/user-attachments/assets/2235889c-262b-446d-9efc-2bc613e99131" />
+</p>
+
+## UART Output
+
+Sensor measurements were transmitted over UART for real-time monitoring and debugging.
+
+<p align="center">
+  <img width="337" height="542" alt="SS_serial_monitor" src="https://github.com/user-attachments/assets/b6e2b4c7-85d6-466c-b227-4f908883bf2b" />
 </p>
 
 ## What I Learned
