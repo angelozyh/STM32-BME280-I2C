@@ -108,11 +108,12 @@ Humidity: 45.72 %RH
 * I2C
 * UART
 
-<!--
+
 ## Project Photo
 
-![STM32 BME280 I2C Sensor](images/bme280-i2c.jpg)
--->
+<p align="center">
+  <img width="3212" height="2155" alt="BME280_circuit" src="https://github.com/user-attachments/assets/2235889c-262b-446d-9efc-2bc613e99131" />
+</p>
 
 ## What I Learned
 
